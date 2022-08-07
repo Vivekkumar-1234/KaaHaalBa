@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "73685426439",
+    "project_id": "kaa-haal-ba",
+    "storage_bucket": "kaa-haal-ba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:73685426439:android:3760f9c467e42043c725a2",
+        "android_client_info": {
+          "package_name": "com.example.kaahaalba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "73685426439-uf6arm8ncq604nb6ks6addhhu5ih0tml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoibx6jyiv3QYdirytXsE-g0_NrCM_yGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "73685426439-uf6arm8ncq604nb6ks6addhhu5ih0tml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
